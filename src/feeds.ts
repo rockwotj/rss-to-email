@@ -1,10 +1,5 @@
 export const feeds = [
-  // Daring Fireball
-  'https://daringfireball.net/feeds/main',
 
-  // JakeArchibald.com
-  'https://jakearchibald.com/posts.rss',
+  'https://github.blog/changelog/label/copilot-chat/feed/',
 
-  // Appjeniksaan
-  'https://appjeniksaan.nl/feed.xml',
 ]
